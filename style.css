@@ -160,22 +160,22 @@ body {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     text-align: center;
-    width: 250px;
+    width: 350px;
 }
 
 /* ---------- Countdown ---------- */
 .countdown-container {
-    display: flex;
+    display: contents;
     justify-content: center;
     gap: 2rem;
     font-size: 1.5rem;
     font-weight: bold;
-    color: #ff69b4;
+    color: #27139c;
 }
 
 /* ---------- Footer ---------- */
 .footer {
-    background: #ff69b4;
+    background: #27139c;
     color: white;
     text-align: center;
     padding: 1rem;
